@@ -1,0 +1,116 @@
+
+	body{
+		margin:0;
+	}
+	p { text-align:justify;
+		font-family:arial;
+		font-size:20;
+		}
+	h1{
+		text-align:center;
+		margin-top:0;
+
+	}
+	h3{
+		margin-bottom:5px;
+	}
+
+	
+	img{
+		height:500px;
+		width:500px;
+		margin:10px 0;
+		
+		
+	}
+	img#satu{
+		background-image:url("img/Gurami.jpg") ;
+		background-size:auto;
+		background-repeat:no-repeat;
+		background-position:center;
+		
+	}
+	img#dua{
+		background-image:url("img/sup.jpg");
+		background-size:auto;
+		background-repeat:no-repeat;
+		background-position:center;
+	}
+	img#tiga{
+		background-image:url("img/sayurans.jpg");
+		background-size:auto;
+		background-repeat:no-repeat;
+		background-position:center;
+	}
+	img#empat{
+		background-image:url("img/mpembuka.jpeg");
+		background-size:auto;
+		background-repeat:no-repeat;
+		background-position:center;
+	}
+	img#lima{
+		background-image:url("img/belut.jpeg");
+		background-size:auto;
+		background-repeat:no-repeat;
+		background-position:center;
+	}
+		
+	.head{ background-color:#000000;
+			height:120px;
+			text-align:center;
+			font-size:30px;
+			font-family:arial;
+			font-weight:bold;
+			color:#FFF	;
+			padding-top:50px;
+			
+	}
+	
+	.navigasi{ 
+	background-color:#F5FFFA;
+	border:2px solid #000000;
+	padding:5px;
+	text-align:center;
+
+	
+	}
+	.navigasi a{
+		text-decoration:none;
+		color:black;
+		padding:10px;
+	}
+	footer{
+		background-color:#000000;
+		text-align:center;
+		height:50px;
+		
+	}
+	footer p {
+		text-align:center;
+		margin:0;
+		padding-top:15px;
+		color:white;
+	}
+	
+	.gambar{
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+		
+		
+	}
+	
+	.headingcontact{
+		text-align:left;
+	}
+	
+	.footercontact{
+		position:relative;
+		top:300px;
+	}
+	
+	.contactform{
+		padding:20px 20px 0 20px;
+	}
+		
+	
